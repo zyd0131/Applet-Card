@@ -1,0 +1,40 @@
+<!--index.wxml-->
+<!-- <view class="title">hello {{wording}}!</view> -->
+<image class="img1" mode="widthFix" src="../../images/3.jpg"></image>
+<!-- <button bindtap="onClick">点击</button> -->
+<view class="text1">
+  张颖栋
+</view>
+<view class="text2"> 
+  <view class="title1">个人简介</view>
+  <view>张颖栋 南方科技大学</view>
+  <view>计算机科学与工程系 计算机科学与技术专业</view>
+  <view class="title1">研究经历</view>
+  <view class="title2">基于出租车数据的交通流量可视化系统</view>
+  <view>项目介绍：</view>
+  <view>搜集纽约市曼哈顿区出租车流量数据与相关多种不同类型数据，搭建数据融合可视化平台，使平台可以通过多数据融合提供给从单数据中无法直接获取的信息。</view>
+  <view>个人贡献：</view>
+  <view>负责平台前端网页框架搭建，多种数据收集，预处理数据获取所需信息，交通流量数据在直方图与折线图中的可视化。</view>
+  <view class="title1">项目经历</view>
+  <view class="title2">协助维护开源项目easyexcel</view>
+  <view>项目介绍：</view>
+  <view>协助维护阿里巴巴开源项目easyexcel (23.7stars)。</view>
+  <view>个人贡献：</view>
+  <view>根据github中其他用户提出的issue复现并解决问题。</view>
+  <view class="title2">校内二手交易市场平台</view>
+  <view>项目介绍：</view>
+  <view>协目标为建立一个南方科技大学在线二手交易平台，满足校园内的二手交易需求。</view>
+  <view>个人贡献：</view>
+  <view>负责参与后端的相关开发工作，负责商品与用户主体类及相关方法的构建。同时负责搭建和管理数据库，使用Mybatis框架将后端代码与MySQL数据库连接。</view>
+  <view class="title1">工作经历</view>
+  <view class="title2">担任计算机科学与工程系开设课程学生助教</view>
+  <view>担任数字逻辑课程学生助教（2021年秋）</view>
+  <view>担任计算机程序设计基础A课程学生助教（2022年春）</view>
+  <view class="title2">深圳市铠硕达科技有限公司 实习</view>
+  <view>软件助理工程师</view>
+  <view class="title1">其他</view>
+  <view class="title2">担任南方科技大学学生会权益部干事</view>
+  <view>曾负责撰写和排版南方科技大学学生会公众号推送文章；协助举办多项大型活动（迎新晚会、四校联谊舞会、TEDx演讲、第一届学生议事会等）。</view>
+  <view class="title2">担任南方科技大学树礼书院学生会学术部秘书</view>
+  <view>参与树礼书院学生会多项制度和条例的制定；协助举办多项大型活动（树礼书院迎新夜、走进实验室等）。</view>
+</view>

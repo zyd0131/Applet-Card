@@ -1,0 +1,1 @@
+"D:\zyd\Tencent\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-3gvymxb749691c5a --n quickstartFunctions --r --project "D:\zyd\TencentWeChatProjects\Card" --report_first --report
